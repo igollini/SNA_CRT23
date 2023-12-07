@@ -1,0 +1,1 @@
+Material for lecture on Statistical Network Analysis [The SFI Centre for Research Training in Foundations of Data Science](https://www.data-science.ie/) 1st year PhD lectures, Maynooth University, Ireland 
